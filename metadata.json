@@ -1,0 +1,7 @@
+{
+  "name": "HarvestShield AI",
+  "description": "AI-Powered Agricultural Post-Harvest Loss Prevention Platform for farmers. Protect every harvest, reduce every loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
